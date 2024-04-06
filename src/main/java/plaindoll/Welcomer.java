@@ -13,4 +13,7 @@ public class Welcomer{
 	public String saySome(){
 		return "something in the way";
 	}
+	public String sayNiceJob(){
+		return "Hello world pochti sovsem ne tormozit, nice job, hunter!";
+	}
 }
